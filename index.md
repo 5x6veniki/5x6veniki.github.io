@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 5х6веники
-subtitle: Путешествия: Заметки, снимки и рисунки
+subtitle: Заметки, снимки и рисунки
 published: true
 ---
 
