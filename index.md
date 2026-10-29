@@ -17,7 +17,10 @@ published: true
 
 * [Япония: Прекрасная гармония](https://5x6veniki.github.io/2026japankorea01)
 * [Япония: Трудовые будни](https://5x6veniki.github.io/2026japankorea02)
-* Япония: Отдых в парке
+* [Япония: Прогулки по паркам](https://5x6veniki.github.io/2026japankorea03)
+* [Япония: Православная вера](https://5x6veniki.github.io/2026japankorea04)
+* Япония: Приятного аппетита
+* Япония: Искусство
 
 
 
